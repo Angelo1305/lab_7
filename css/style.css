@@ -1,1 +1,43 @@
+body {
+    background: url('../images/nebula1.en.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+table {
+    background-color: rgba(128, 0, 128, 0.8);
+    border-collapse: separate;
+    border-spacing: 10px;
+    padding: 15px;
+    width: 80%;
+    margin: 20px auto;
+    border: 2px solid white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid white;
+    text-align: center;
+}
+
+th {
+    background-color: rgba(75, 0, 130, 0.8);
+    font-weight: bold;
+}
+
+td {
+    background-color: rgba(147, 112, 219, 0.6);
+}
 
